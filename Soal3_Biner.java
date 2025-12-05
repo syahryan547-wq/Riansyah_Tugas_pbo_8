@@ -1,3 +1,5 @@
+package Tugas8;
+
 class Biner {
     int n;
 
