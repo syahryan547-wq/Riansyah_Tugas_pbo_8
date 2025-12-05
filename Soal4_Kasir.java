@@ -1,3 +1,5 @@
+package Tugas8;
+
 class Kasir {
     int harga;
     int jumlah;
