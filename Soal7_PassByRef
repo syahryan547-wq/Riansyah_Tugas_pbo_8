@@ -1,0 +1,14 @@
+public class Soal7_PassByRef {
+
+    static void tampilkan(int[] arr){
+        System.out.print("Barisan: ");
+        for(int x : arr){
+            System.out.print(x + " ");
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] data = {6, 12, 24, 48, 96};
+        tampilkan(data);
+    }
+}
