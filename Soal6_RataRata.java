@@ -1,3 +1,5 @@
+package Tugas8;
+
 class Nilai {
     int[] data;
 
